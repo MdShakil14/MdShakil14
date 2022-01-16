@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirsunny50&label=Profile%20views&color=0e75b6&style=flat" alt="nasirsunny50" /> </p>
 
-- 🔭 I’m currently working on **Kamla dei**
+- 🔭 I’m currently working on **Android**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Android Projects**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mdshakil1420414@gmail.com**
 
-- 📄 Know about my experiences [http://nasirsunny.unaux.com/](http://nasirsunny.unaux.com/)
+//- 📄 Know about my experiences [http://nasirsunny.unaux.com/](http://nasirsunny.unaux.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
