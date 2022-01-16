@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nasirsunny7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasirsunny7" height="30" width="40" /></a>
+<a href="https://twitter.com/shakil14204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasirsunny7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-nasir-uddin-a650851a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-nasir-uddin-a650851a8/" height="30" width="40" /></a>
 <a href="https://kaggle.com/nasirsunny50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nasirsunny50" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mdmahfuzurrahman.shakil.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sup.sun/" height="30" width="40" /></a>
