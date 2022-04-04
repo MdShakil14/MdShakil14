@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirsunny50&label=Profile%20views&color=0e75b6&style=flat" alt="nasirsunny50" /> </p>
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **Software Quality Assurance**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
