@@ -28,4 +28,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4>Java </h4><h4>Selenium </h4>
+<h4>Java </h4><h4>Selenium </h4><h4>API Testing</h4><h4>Automation Testing </h4><h4>Automation Framework </h4><h4>Manual Testing </h4><h4>Rest Assured </h4><h4>Postman </h4><h4>Scrum </h4>
